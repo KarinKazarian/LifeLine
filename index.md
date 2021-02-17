@@ -14,13 +14,29 @@ Moreover, educational level, age and self-efficacy must be considered to devise 
 
 ### Existing superapps
 
+Looking at successful super apps, which were mostly developed and deployed in the East, we've found a few traits that make superapps attractive to its userbase. 
 
+**All features that a super app offers are consolidated**, the user does not need to download other apps, plugins, or extensions, the most commonly used features come pre-installed. All those features are made to be convenient and presented in an aesthetically similar format to guarantee the uniformity of the experience. 
+
+**Super app dashboards are as simple as possible** so it can acheive adoption as soon as possible. There should be minimal clutter, let the user navigate though submenus instead and then allow them to create shortcuts once they get used to using the app. There shouldn’t be clutter for accessibility reasons as well, as a super app should be appropriate for all ages.
+
+**The app being more appealing is prioritised over profitability**, successful super apps don't have annoying ads, they don't obtain a lot of revenue per user, they seek to grow the userbase instead.
+
+**The app stays out of the way of the user**, who should be able to do what they set out to do in minimal time. If the app recommends anything, it does so discreetly, it seizes control from the user rarely. 
 
 ### Surveys
+
+To better understand our potential user base, surveys were sent out to see what kinds of people would be willing to use a super app that promotes a healthy lifestyle and what they would expect from such an app and what they would want to use it for. 
+
+This survey also allowed us to learn more about the existing positive and negative habits of our potential users so that we could use this data to further guide us through the development and design of the app. Knowing what the respondents do with their devices and how it already affects their life made it easier for us to decide what to include in the app. 
 
 ## Data Analysis
 
 ### User Personas
+
+
+
+![Image](img/student.png)
 
 ### Markdown
 
