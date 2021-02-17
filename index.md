@@ -34,9 +34,9 @@ This survey also allowed us to learn more about the existing positive and negati
 
 ### User Personas
 
+![Student Persona](img/student.png)
 
-
-![Image](img/student.png)
+![Nerd Persona](img/nerd.png)
 
 ### Markdown
 
