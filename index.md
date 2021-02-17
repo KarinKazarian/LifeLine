@@ -9,7 +9,7 @@ Other papers show that sedentary behaviour itself (which is normally associated 
 
 ### Improving poor habits
 
-The same research demonstrates the importance of clear,consistent and logical rules when it comes to screen time restrictions. It is simply infuriating for most people to lose functionality or access without knowing precisely why and what they should do about it when their screen time is restricted directly or indirectly.
+The same research demonstrates the importance of clear, consistent and logical rules when it comes to screen time restrictions. It is simply infuriating for most people to lose functionality or access without knowing precisely why and what they should do about it when their screen time is restricted directly or indirectly.
 Moreover, educational level, age and self-efficacy must be considered to devise appropriate solutions to reduce domestic screen time. 
 
 ### Existing superapps
@@ -28,7 +28,7 @@ Looking at successful super apps, which were mostly developed and deployed in th
 
 To better understand our potential user base, surveys were sent out to see what kinds of people would be willing to use a super app that promotes a healthy lifestyle and what they would expect from such an app and what they would want to use it for. 
 
-This survey also allowed us to learn more about the existing positive and negative habits of our potential users so that we could use this data to further guide us through the development and design of the app. Knowing what the respondents do with their devices and how it already affects their life made it easier for us to decide what to include in the app. 
+This survey also allowed us to learn more about the existing positive and negative habits of our potential users so that we can use this data to further guide us through the development and design of the app. Knowing what the respondents do with their devices and how it already affects their lives made it easier for us to decide what to include in the app. 
 
 ## Data Analysis
 
