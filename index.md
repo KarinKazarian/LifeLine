@@ -2,6 +2,22 @@
 
 ## Research
 
+### Impact of screen time on health
+
+Several papers show that spending a lot of time in front of a computer combined with low physical activity is detrimental to one’s health and wellbeing.
+Other papers show that sedentary behaviour itself (which is normally associated with screen time as the majority of people look at screens while sitting) is bad for your health independent of physical activity. 
+
+### Improving poor habits
+
+The same research demonstrates the importance of clear,consistent and logical rules when it comes to screen time restrictions. It is simply infuriating for most people to lose functionality or access without knowing precisely why and what they should do about it when their screen time is restricted directly or indirectly.
+Moreover, educational level, age and self-efficacy must be considered to devise appropriate solutions to reduce domestic screen time. 
+
+### Existing superapps
+
+
+
+### Surveys
+
 ## Data Analysis
 
 ### User Personas
