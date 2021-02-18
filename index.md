@@ -12,15 +12,15 @@ Other papers show that sedentary behaviour itself (which is normally associated 
 The same research demonstrates the importance of clear, consistent and logical rules when it comes to screen time restrictions. It is simply infuriating for most people to lose functionality or access without knowing precisely why and what they should do about it when their screen time is restricted directly or indirectly.
 Moreover, educational level, age and self-efficacy must be considered to devise appropriate solutions to reduce domestic screen time.
 
-### Existing superapps
+### Existing Super Apps
 
 Looking at successful super apps, which were mostly developed and deployed in the East, we've found a few traits that make superapps attractive to its userbase.
 
 **All features that a super app offers are consolidated**, the user does not need to download other apps, plugins, or extensions, the most commonly used features come pre-installed. All those features are made to be convenient and presented in an aesthetically similar format to guarantee the uniformity of the experience.
 
-**Super app dashboards are as simple as possible** so it can acheive adoption as soon as possible. There should be minimal clutter, let the user navigate though submenus instead and then allow them to create shortcuts once they get used to using the app. There shouldn’t be clutter for accessibility reasons as well, as a super app should be appropriate for all ages.
+**Super app dashboards are as simple as possible** so it can achieve adoption as soon as possible. There should be minimal clutter, let the user navigate though submenus instead and then allow them to create shortcuts once they get used to using the app. There shouldn’t be clutter for accessibility reasons as well, as a super app should be appropriate for all ages.
 
-**The app being more appealing is prioritised over profitability**, successful super apps don't have annoying ads, they don't obtain a lot of revenue per user, they seek to grow the userbase instead.
+**The app being more appealing is prioritized over profitability**, successful super apps don't have annoying ads, they don't obtain a lot of revenue per user, they seek to grow the userbase instead.
 
 **The app stays out of the way of the user**, who should be able to do what they set out to do in minimal time. If the app recommends anything, it does so discreetly, it seizes control from the user rarely.
 
