@@ -38,6 +38,23 @@ To better understand our potential user base, surveys were sent out to see what 
 
 This survey also allowed us to learn more about the existing positive and negative habits of our potential users so that we can use this data to further guide us through the development and design of the app. Knowing what the respondents do with their devices and how it already affects their lives made it easier for us to decide what to include in the app.
 
+As the data shows, most people are willing to use a super with a focus on healthy habits. Most participants are already use an app to track fitness, but nothing else.
+A good amount of respondents use an app to track their screen time, but the majority thinks they do spend too much time on their devices, which makes sense given that the majority also spends more than 7 hours per day on their devices.  
+
+![Track fitness graph](img/track_fitness.png)  
+![Track other habits graph](img/track_habits.png)
+![screen time graph](img/screen_time.png)
+![screen time distribution](img/screen_time_distribution.png)
+![interest in app](img/interest.png)  
+Where 1 is not interesting at all and 5 is very interested.
+
+The interest in the app must partially stem from the negative effects experienced by the participants of the survey as shown below. Interestingly, most of the pain caused by those bad habits are more mental than physical in nature.   
+In all the graphs below, 1 is for non-existent pain/effect while 5/7 is extreme pain/effect.
+
+![physical pain](img/physical_pain.png)  
+![emotional pain](img/emotional_pain.png)  
+![physical pain](img/social_pain.png)  
+
 <h2 id= "dataAnalysis"> Data Analysis</h2>
 
 <h2 id= "personas"> User Personas</h2>
