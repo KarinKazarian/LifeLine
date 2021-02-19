@@ -1,12 +1,14 @@
 <h2 id= "understanding"> Understanding the problem</h2>
 
-Over the past couple years, our phones have devices have quickly become an extension of ourselves. We use it to capture memories by taking photos, we use it to communicate with our family who may live thousands of miles away, We use to order food when we’re hungry and to hail a ride when we need to get somewhere. It’s brought convenience to our lives but there are some negative impacts to this extend use of screens. It can affect you mentally and physically. 
+Over the past couple years, our phones and smart devices have quickly become an extension of ourselves. We use it to capture memories by taking photos, to communicate with our family who may live thousands of miles away, to order food when we’re hungry and to hail a ride when we need to get somewhere. Not only do we use our devices for convenience's sake, but we now use them to get work done and to entertain ourselves once we've stopped working. Unfortunately, this extensive use can take a toll on our body and mind as research has demonstrated.
 
-The university of Gothenburg did a [study](https://www.recordgazette.net/screen-time-tied-to-health-issues/article_2d5aef9e-ddef-11e8-a22a-ebdc8aced172.html) where they found a link between heavy screen use to cause sleep disturbances. There have also been studies [linking screen media exposure to increased risks of obesity in children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)
+For example the university of Gothenburg did a [study](https://www.recordgazette.net/screen-time-tied-to-health-issues/article_2d5aef9e-ddef-11e8-a22a-ebdc8aced172.html) where they found a link between heavy screen use and sleep disturbances and/or disorders. There have also been studies [linking screen media exposure to increased risks of obesity in children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)
 
-Healthy screen habits has become a hot topic recently with many companies trying to promote it. Apple has implemented their own screen time services where you can see data on your screen use and set restrictions to help you control your use. There are also dedicated apps like forest that help you disconnect from your phone. 
+Healthy screen habits have become a hot topic recently with many companies trying to promote them. Apple has implemented its own screen time services where you can see data related to your screen use and set restrictions to help you control the amount of time you spend on your devices. There are also seperate apps like Forest which help you control the amount of time you spend on your device. 
 
-We’re only going to become more dependent on our devices as time goes on, but if we could do everything we wanted and needed on a single application that promoted healthy screen habits then we could get all the benefits of our devices without having to deal with any of the negatives
+We are only going to become more dependent on our devices as time goes on, but if we could do everything we wanted and needed on a single application that promoted healthy screen habits then we could get all the benefits of our devices without having to deal with any of the negatives.
+
+As we won't stop using our devices anytime soon, there probably is or will be a demand for a super app which encourages and reinforces healthy habits that allows you to accomplish most of our daily tasks. 
 
 <h2 id= "research"> Research</h2>
 
