@@ -165,14 +165,12 @@ To start the design of our Super App we created some basic sketches to get a gen
 </div>
 
 ### Wireframes
-
+<div class="wireframes">
 <a href="#" id="pop">
-    <img id="imageresource" src="img/Wireframes/Wireframes-01.png" style="width: 400px; height: 264px;">
-    Click to Enlarge
+    <img id="imageresource" src="img/Wireframes/Wireframes-01.png" >
 </a>
 <a href="#" id="pop">
-    <img id="imageresource" src="img/Wireframes/Wireframes-02.png" style="width: 400px; height: 264px;">
-    Click to Enlarge
+    <img id="imageresource" src="img/Wireframes/Wireframes-02.png">
 </a>
 <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
@@ -182,7 +180,7 @@ To start the design of our Super App we created some basic sketches to get a gen
         <h4 class="modal-title" id="myModalLabel">Image preview</h4>
       </div>
       <div class="modal-body">
-        <img src="" id="imagepreview" style="width: 400px; height: 264px;" >
+        <img src="" id="imagepreview" >
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -190,7 +188,7 @@ To start the design of our Super App we created some basic sketches to get a gen
     </div>
   </div>
 </div>
-
+</div>
 
   
   
