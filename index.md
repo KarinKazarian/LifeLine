@@ -172,22 +172,204 @@ To start the design of our Super App we created some basic sketches to get a gen
 ### Wireframes
 
 <div class="wireframes">
-<a href="#" class="pop">
-    <img id="imageresource" src="img/Wireframes/Wireframes-01.png" >
-</a>
-<a href="#" class="pop">
-    <img id="imageresource" src="img/Wireframes/Wireframes-02.png">
-</a>
-<div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-      <div class="modal-body">
-        <img src="" id="imagepreview" >
+<div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-01.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-01.png"
+        data-toggle="modal" data-target="#modal1"></a>
   </div>
-</div>
+  </div>
+  <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-02.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-02.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-03.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-03.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-04.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-04.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-05.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-05.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-06.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-06.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-07.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-07.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-08.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-08.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-09.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-09.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-10.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-10.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
+    <div class="row">
+  <div class="col-lg-4 col-md-12 mb-4">
+    <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-body mb-0 p-0">
+            <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+              <iframe class="embed-responsive-item" src="img/Wireframes/Wireframes-11.png"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a><img class="img-fluid z-depth-1" src="img/Wireframes/Wireframes-11.png"
+        data-toggle="modal" data-target="#modal1"></a>
+  </div>
+  </div>
 </div>
 
 <h2 id= "finalDesign">Final Design</h2>
