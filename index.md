@@ -239,5 +239,16 @@ look like.
   <div>Planner</div>
 </div>
 
+<div class="prototypes1">
+  <a href="img/Prototypes/Prototypes-18.png"><img src="img/Prototypes/Prototypes-18.png"></a>
+  <div>Fitness</div>
+</div>
+
+<div class="prototypes2">
+  <a href="img/Prototypes/Prototypes-12.png"><img src="img/Prototypes/Prototypes-12.png"></a>
+  <a href="img/Prototypes/Prototypes-13.png"><img src="img/Prototypes/Prototypes-13.png"></a>
+  <div>Gray</div>
+</div>
+
 <h2 id="finalDesign">Final Design</h2>
 ![Final Design](img/finalDesign.gif)
