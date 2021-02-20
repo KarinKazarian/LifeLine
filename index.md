@@ -1,42 +1,42 @@
-<div class="container">
-  <div class="tab-content">
-    <div id="home" class="tab-pane fade in active">
-      <h3>HOME</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua.</p>
-    </div>
-    <div id="menu1" class="tab-pane fade">
-      <h3>Understanding the problem</h3>
-      <p>
-        Over the past decade, our phones and smart devices have quickly become an extension of ourselves. We use it to
-        capture memories by taking photos, to communicate with our family who may live thousands of miles away, to order
-        food when we’re hungry and to hail a ride when we need to get somewhere. Not only do we use our devices for
-        convenience's sake, but we now use them to get most of our work done and to entertain ourselves once we've
-        stopped working. Unfortunately, this extensive use can take a toll on our body and mind as research has
-        demonstrated.
-      </p>
-      <p>
-        For example the university of Gothenburg did a <a
-          href="(https://www.recordgazette.net/screen-time-tied-to-health-issues/article_2d5aef9e-ddef-11e8-a22a-ebdc8aced172.html)">
-          study</a> where they found a link between heavy screen use and sleep disturbances and/or disorders. There have also been studies <a href="(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)">  linking screen media
-          exposure to increased risks of obesity in children</a>
-      </p>
-    </div>
-    <div id="menu2" class="tab-pane fade">
-      <h3>Research</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam.</p>
-    </div>
-    <div id="menu3" class="tab-pane fade">
-      <h3>Data Analysis</h3>
-      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-    </div>
-    <div id="menu4" class="tab-pane fade">
-      <h3>User Personas</h3>
-      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-    </div>
+<div class="tab-content">
+  <div id="home" class="tab-pane fade in active">
+    <h3>HOME</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+      magna aliqua.</p>
+  </div>
+  <div id="menu1" class="tab-pane fade">
+    <h3>Understanding the problem</h3>
+    <p>
+      Over the past decade, our phones and smart devices have quickly become an extension of ourselves. We use it to
+      capture memories by taking photos, to communicate with our family who may live thousands of miles away, to order
+      food when we’re hungry and to hail a ride when we need to get somewhere. Not only do we use our devices for
+      convenience's sake, but we now use them to get most of our work done and to entertain ourselves once we've
+      stopped working. Unfortunately, this extensive use can take a toll on our body and mind as research has
+      demonstrated.
+    </p>
+    <p>
+      For example the university of Gothenburg did a <a
+        href="(https://www.recordgazette.net/screen-time-tied-to-health-issues/article_2d5aef9e-ddef-11e8-a22a-ebdc8aced172.html)">
+        study</a> where they found a link between heavy screen use and sleep disturbances and/or disorders. There have
+      also been studies <a href="(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)"> linking screen media
+        exposure to increased risks of obesity in children</a>
+    </p>
+  </div>
+  <div id="menu2" class="tab-pane fade">
+    <h3>Research</h3>
+    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam.</p>
+  </div>
+  <div id="menu3" class="tab-pane fade">
+    <h3>Data Analysis</h3>
+    <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+  </div>
+  <div id="menu4" class="tab-pane fade">
+    <h3>User Personas</h3>
+    <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
   </div>
 </div>
+
 
 <h2 id="understanding"> Understanding the problem</h2>
 
