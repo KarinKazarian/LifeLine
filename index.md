@@ -221,7 +221,7 @@ look like.
 ### Features
 <div class="prototypes">
   <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
-  <div>Social Media<div>
+  <div>Social Media</div>
 </div>
 
 <h2 id="finalDesign">Final Design</h2>
