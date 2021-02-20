@@ -1,11 +1,4 @@
 <div class="container">
-  <ul class="nav nav-tabs">
-    <li class="active"><a href="#home">Home</a></li>
-    <li><a href="#menu1">Understanding the problem</a></li>
-    <li><a href="#menu2">Research</a></li>
-    <li><a href="#menu3">Data Analysis</a></li>
-    <li><a href="#menu3">User Personas</a></li>
-  </ul>
 <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
       <h3>HOME</h3>
