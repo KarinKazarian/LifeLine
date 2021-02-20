@@ -240,8 +240,18 @@ look like.
 </div>
 
 <div class="prototypes1">
+  <a href="img/Prototypes/Prototypes-11.png"><img src="img/Prototypes/Prototypes-11.png"></a>
+  <div>Planner</div>
+</div>
+
+<div class="prototypes2">
   <a href="img/Prototypes/Prototypes-18.png"><img src="img/Prototypes/Prototypes-18.png"></a>
   <div>Fitness</div>
+</div>
+
+<div class="prototypes1">
+  <a href="img/Prototypes/Prototypes-19.png"><img src="img/Prototypes/Prototypes-19.png"></a>
+  <div>Fitness start</div>
 </div>
 
 <div class="prototypes3">
