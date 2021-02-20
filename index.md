@@ -18,8 +18,7 @@
       <p>
         For example the university of Gothenburg did a <a
           href="(https://www.recordgazette.net/screen-time-tied-to-health-issues/article_2d5aef9e-ddef-11e8-a22a-ebdc8aced172.html)">
-          study</a href="(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)"> where they found a link between heavy
-        screen use and sleep disturbances and/or disorders. There have also been studies <a>linking screen media
+          study</a> where they found a link between heavy screen use and sleep disturbances and/or disorders. There have also been studies <a href="(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)">  linking screen media
           exposure to increased risks of obesity in children</a>
       </p>
     </div>
