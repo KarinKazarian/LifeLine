@@ -67,7 +67,7 @@ A good amount of respondents use an app to track their screen time, but the majo
     </div>
     <div class="item">
       <img src="img/interest.png">
-      <div class="carousel-caption">
+      <div class="carousel-caption" style="color: black; padding-bottom: 200px;">
           <p>(1 = not interested) - (5 = very interested)</p>
         </div>
     </div>
