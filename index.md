@@ -241,7 +241,7 @@ look like.
 
 <div class="prototypes1">
   <a href="img/Prototypes/Prototypes-11.png"><img src="img/Prototypes/Prototypes-11.png"></a>
-  <div>Planner</div>
+  <div>Deep Focus</div>
 </div>
 
 <div class="prototypes2">
