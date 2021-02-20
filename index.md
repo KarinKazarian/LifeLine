@@ -69,9 +69,7 @@ In all the graphs below, 1 is for non-existent pain/effect while 5/7 is extreme 
 
 To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our app to look like.
 
-[![](img/Sketch1_resized.png)](img/Sketch1.png)
-[![](img/Sketch2_resized.png)](img/Sketch2.png)
-[![](img/Sketch3_resized.png)](img/Sketch3.png)
+[![](img/sketch1_resized.jpg)](img/Sketch1.png)[![](img/sketch2_resized.jpg)](img/Sketch2.png)[![](img/sketch3_resized.jpg)](img/Sketch3.png)
 
 
 ### Markdown
