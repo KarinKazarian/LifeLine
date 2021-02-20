@@ -63,6 +63,8 @@ In all the graphs below, 1 is for non-existent pain/effect while 5/7 is extreme 
 
 ![Nerd Persona](img/nerd.png)
 
+[![](img/sketch1_resized.jpg)](img/Sketches-01.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
