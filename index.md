@@ -1,4 +1,3 @@
-<div class="container">
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
       <h3>HOME</h3>
@@ -186,7 +185,7 @@
       <a href="img/nerd.png"><img src="img/nerd.png"></a>
     </div>
   </div>
-</div>
+
 
 
 
