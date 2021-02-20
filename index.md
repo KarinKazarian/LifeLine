@@ -135,6 +135,9 @@ To start the design of our Super App we created some basic sketches to get a gen
 
 [![](img/sketch1_resized.jpg)](img/Sketch1.png)[![](img/sketch2_resized.jpg)](img/Sketch2.png)[![](img/sketch3_resized.jpg)](img/Sketch3.png)
 
+<h2 id= "finalDesign">Final Design</h2>
+![Final Design](img/finalDesign.gif)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
