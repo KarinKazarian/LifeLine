@@ -2,6 +2,9 @@
 ---
 
 @import 'jekyll-theme-slate';
+#main_content_wrap {
+  background: white;
+}
 .tab {
   position: sticky;
   top: 0;
