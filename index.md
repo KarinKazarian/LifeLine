@@ -159,6 +159,68 @@ To start the design of our Super App we created some basic sketches to get a gen
     <a href="img/Sketch2.png"><img src="img/Sketch2.png"></a>
     <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
 </div>
+
+### Wireframes
+
+  <div class="row" id="gallery" data-toggle="modal" data-target="#exampleModal">
+  <div class="col-12 col-sm-6 col-lg-3">
+    <img class="w-100" src="img/Wireframes/Wireframes-01.png" data-target="#carouselExample" data-slide-to="0">
+  </div>
+  <div class="col-12 col-sm-6 col-lg-3">
+    <img class="w-100" src="img/Wireframes/Wireframes-02.png" data-target="#carouselExample" data-slide-to="1">
+  </div>
+  <div class="col-12 col-sm-6 col-lg-3">
+    <img class="w-100" src="img/Wireframes/Wireframes-03.png" data-target="#carouselExample" data-slide-to="2">
+  </div>
+  <div class="col-12 col-sm-6 col-lg-3">
+    <img class="w-100" src="img/Wireframes/Wireframes-04.png" data-target="#carouselExample" data-slide-to="3">
+  </div>
+  </div>
+  
+  <!-- Modal markup: https://getbootstrap.com/docs/4.4/components/modal/ -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <div id="carouselExample" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="img/Wireframes/Wireframes-01.png">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="img/Wireframes/Wireframes-02.png">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="img/Wireframes/Wireframes-03.png">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="img/Wireframes/Wireframes-04.png">
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+  
+  
+  
 <h2 id= "finalDesign">Final Design</h2>
 ![Final Design](img/finalDesign.gif)
 
