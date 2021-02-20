@@ -244,7 +244,7 @@ look like.
   <div>Fitness</div>
 </div>
 
-<div class="prototypes2">
+<div class="prototypes3">
   <a href="img/Prototypes/Prototypes-12.png"><img src="img/Prototypes/Prototypes-12.png"></a>
   <a href="img/Prototypes/Prototypes-13.png"><img src="img/Prototypes/Prototypes-13.png"></a>
   <div>Gray</div>
