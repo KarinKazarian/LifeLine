@@ -121,11 +121,27 @@ In all the graphs below, 1 is for non-existent pain/effect while 5/7 is extreme 
 
 <h2 id= "dataAnalysis"> Data Analysis</h2>
 
-<h2 id= "personas"> User Personas</h2>
+<h3 id= "personas"> User Personas</h3>
+
+Based on the data we gathered through the surveys we set out to create two personas which represent our target demographic. 
+
+The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the next level. This user would like to make offline
+ activities more appealing through the app, mainly by organising activities with people she meets on the app. 
 
 ![Student Persona](img/student.png)
 
+The second persona depicts the fear driven user who spends a lot of time in front of a screen who wants to fix his lifestyle.
+This user seeks an app that understands his needs and allows him to slowly improve his habits so that he doesn't give up. 
+
 ![Nerd Persona](img/nerd.png)
+
+<h3 id= "personas"> User Journeys</h3>
+
+Knowing what the potential users of our app want and expect, we can create user journeys which demonstrate how their average experience looks
+like with similar apps available on the market. 
+
+![Student Journey](img/student_journey.png)
+![Nerd Journey](img/nerd_journey.png)
 
 <h2 id= "Designs"> Designs</h2>
 
