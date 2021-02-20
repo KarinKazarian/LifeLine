@@ -188,16 +188,6 @@
 
 
 
-
-
-<h2 id="personas"> User Personas</h2>
-
-![Student Persona](img/student.png)
-
-![Nerd Persona](img/nerd.png)
-
-<h2 id="Designs"> Designs</h2>
-
 ### Sketches
 
 To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our app to
@@ -214,11 +204,25 @@ look like.
 <div class="wireframes">
   <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
   <a href="img/Wireframes/Wireframes-02.png"><img src="img/Wireframes/Wireframes-02.png"></a>
-  <a href="img/Wireframes/Wireframes-03.png"><img src="iimg/Wireframes/Wireframes-03.png"></a>
-  <a href="img/Wireframes/Wireframes-04.png"><img src="iimg/Wireframes/Wireframes-04.png"></a>
-  <a href="img/Wireframes/Wireframes-05.png"><img src="iimg/Wireframes/Wireframes-05.png"></a>
+  <a href="img/Wireframes/Wireframes-03.png"><img src="img/Wireframes/Wireframes-03.png"></a>
+  <a href="img/Wireframes/Wireframes-04.png"><img src="img/Wireframes/Wireframes-04.png"></a>
+  <a href="img/Wireframes/Wireframes-05.png"><img src="img/Wireframes/Wireframes-05.png"></a>
+  <a href="img/Wireframes/Wireframes-06.png"><img src="img/Wireframes/Wireframes-06.png"></a>
+  <a href="img/Wireframes/Wireframes-07.png"><img src="img/Wireframes/Wireframes-07.png"></a>
+  <a href="img/Wireframes/Wireframes-08.png"><img src="img/Wireframes/Wireframes-08.png"></a>
+  <a href="img/Wireframes/Wireframes-09.png"><img src="img/Wireframes/Wireframes-09.png"></a>
+  <a href="img/Wireframes/Wireframes-10.png"><img src="img/Wireframes/Wireframes-10.png"></a>
+  <a href="img/Wireframes/Wireframes-11.png"><img src="img/Wireframes/Wireframes-11.png"></a>
+  <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
+  <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
+  <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a>
 </div>
 
+### Features
+<div class="prototypes">
+  <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
+  <div>Social Media<div>
+</div>
 
 <h2 id="finalDesign">Final Design</h2>
 ![Final Design](img/finalDesign.gif)
