@@ -1,4 +1,3 @@
-<div class="container">
 <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
       <h3>HOME</h3>
@@ -27,7 +26,6 @@
       <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
     </div>
   </div>
-</div>
 
 <h2 id= "understanding"> Understanding the problem</h2>
 
