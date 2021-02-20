@@ -34,25 +34,10 @@
   height: 260px;
 }
 
-
-$bootstrap-sm: 576px;
-$bootstrap-md: 768px;
-$bootstrap-lg: 992px;
-$bootstrap-xl: 1200px;
-
-// Crop thumbnail images.
 #gallery {
   img {
     height: 75vw;
     object-fit: cover;
-    
-    @media (min-width: $bootstrap-sm) {
-      height: 35vw;
-    }
-    
-    @media (min-width: $bootstrap-lg) {
-      height: 18vw;
-    }
   }
 }
 
@@ -62,9 +47,6 @@ $bootstrap-xl: 1200px;
     height: 60vw;
     object-fit: cover;
     
-    @media (min-width: $bootstrap-sm) {
-      height: 350px;
-    }
   }
 }
 

@@ -234,13 +234,13 @@ To start the design of our Super App we created some basic sketches to get a gen
       <div id="carouselExample" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="img/Wireframes/Wireframes-04.png">
+              <img class="d-block w-100" src="img/Wireframes/Wireframes-01.png">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="img/Wireframes/Wireframes-04.png">
+              <img class="d-block w-100" src="img/Wireframes/Wireframes-02.png">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="img/Wireframes/Wireframes-04.png">
+              <img class="d-block w-100" src="img/Wireframes/Wireframes-03.png">
             </div>
             <div class="carousel-item">
               <img class="d-block w-100" src="img/Wireframes/Wireframes-04.png">
