@@ -4,9 +4,9 @@ Over the past decade, our phones and smart devices have quickly become an extens
 
 For example the university of Gothenburg did a [study](https://www.recordgazette.net/screen-time-tied-to-health-issues/article_2d5aef9e-ddef-11e8-a22a-ebdc8aced172.html) where they found a link between heavy screen use and sleep disturbances and/or disorders. There have also been studies [linking screen media exposure to increased risks of obesity in children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)
 
-Healthy screen habits have become a hot topic recently with many companies trying to promote them. Apple has implemented its own screen time services where you can see data related to your screen use and set restrictions to help you control the amount of time you spend on your devices. There are also seperate apps like Forest which help you control the amount of time you spend procrastinating on your device. 
+Healthy screen habits have become a hot topic recently with many companies trying to promote them. Apple has implemented its own screen time services where you can see data related to your screen use and set restrictions to help you control the amount of time you spend on your devices. There are also seperate apps like Forest which help you control the amount of time you spend procrastinating on your device.
 
-As we won't stop using our devices anytime soon, there probably is or will be a demand for a super app which encourages and reinforces healthy habits that allows us to accomplish most of our daily tasks. 
+As we won't stop using our devices anytime soon, there probably is or will be a demand for a super app which encourages and reinforces healthy habits that allows us to accomplish most of our daily tasks.
 
 <h2 id= "research"> Research</h2>
 
@@ -39,21 +39,85 @@ To better understand our potential user base, surveys were sent out to see what 
 This survey also allowed us to learn more about the existing positive and negative habits of our potential users so that we can use this data to further guide us through the development and design of the app. Knowing what the respondents do with their devices and how it already affects their lives made it easier for us to decide what to include in the app.
 
 As the data shows, most people are willing to use a super with a focus on healthy habits. Most participants are already use an app to track fitness, but nothing else.
-A good amount of respondents use an app to track their screen time, but the majority thinks they do spend too much time on their devices, which makes sense given that the majority also spends more than 7 hours per day on their devices.  
+A good amount of respondents use an app to track their screen time, but the majority thinks they do spend too much time on their devices, which makes sense given that the majority also spends more than 7 hours per day on their devices.
 
-![Track fitness graph](img/track_fitness.png)  
-![Track other habits graph](img/track_habits.png)
-![screen time graph](img/screen_time.png)
-![screen time distribution](img/screen_time_distribution.png)
-![interest in app](img/interest.png)  
-Where 1 is not interesting at all and 5 is very interested.
+<div id="myCarousel1" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel1" data-slide-to="1"></li>
+    <li data-target="#myCarousel1" data-slide-to="2"></li>
+    <li data-target="#myCarousel1" data-slide-to="3"></li>
+    <li data-target="#myCarousel1" data-slide-to="4"></li>
+  </ol>
 
-The interest in the app must partially stem from the negative effects experienced by the participants of the survey as shown below. Interestingly, most of the pain caused by those bad habits are more mental than physical in nature.   
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="img/track_fitness.png">
+    </div>
+    <div class="item">
+      <img src="img/track_habits.png">
+    </div>
+    <div class="item">
+      <img src="img/screen_time.png">
+    </div>
+    <div class="item">
+      <img src="img/screen_time_distribution.png">
+    </div>
+    <div class="item">
+      <img src="img/interest.png">
+      <div class="carousel-caption">
+          <p>(1 = not interested) - (5 = very interested)</p>
+        </div>
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel1" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel1" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+The interest in the app must partially stem from the negative effects experienced by the participants of the survey as shown below. Interestingly, most of the pain caused by those bad habits are more mental than physical in nature.  
 In all the graphs below, 1 is for non-existent pain/effect while 5/7 is extreme pain/effect.
 
-![physical pain](img/physical_pain.png)  
-![emotional pain](img/emotional_pain.png)  
-![physical pain](img/social_pain.png)  
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="img/physical_pain.png">
+    </div>
+    <div class="item">
+      <img src="img/emotional_pain.png">
+    </div>
+    <div class="item">
+      <img src="img/social_pain.png">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a style="color:black;background:transparent;" class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a style="color:black;background:transparent;" class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 <h2 id= "dataAnalysis"> Data Analysis</h2>
 
@@ -70,7 +134,6 @@ In all the graphs below, 1 is for non-existent pain/effect while 5/7 is extreme 
 To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our app to look like.
 
 [![](img/sketch1_resized.jpg)](img/Sketch1.png)[![](img/sketch2_resized.jpg)](img/Sketch2.png)[![](img/sketch3_resized.jpg)](img/Sketch3.png)
-
 
 ### Markdown
 
