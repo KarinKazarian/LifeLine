@@ -219,9 +219,14 @@ look like.
 </div>
 
 ### Features
-<div class="prototypes">
+<div class="prototypes-1">
   <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
   <div>Social Media</div>
+</div>
+
+<div class="prototypes-2">
+  <a href="img/Prototypes/Prototypes-04.png"><img src="img/Prototypes/Prototypes-04.png"></a>
+  <div>Messaging</div>
 </div>
 
 <h2 id="finalDesign">Final Design</h2>
