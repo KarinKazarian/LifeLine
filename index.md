@@ -12,7 +12,8 @@
       <p>
         For example the university of Gothenburg did a <a
           href="(https://www.recordgazette.net/screen-time-tied-to-health-issues/article_2d5aef9e-ddef-11e8-a22a-ebdc8aced172.html)">
-          study</a> where they found a link between heavy screen use and sleep disturbances and/or disorders. There have also been studies <a href="(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)">  linking screen media
+          study</a> where they found a link between heavy screen use and sleep disturbances and/or disorders. There have
+        also been studies <a href="(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5769928/)"> linking screen media
           exposure to increased risks of obesity in children</a>
       </p>
       <p>
@@ -171,25 +172,72 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+      <h3>Sketches</h3>
+      <p>To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our
+        app to
+        look like.</p>
+      <div class="sketches">
+        <a href="img/Sketch1.png"><img src="img/Sketch1.png"></a>
+        <a href="img/Sketch2.png"><img src="img/Sketch2.png"></a>
+        <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
+      </div>
+      <div class="user-journeys">
+        <h3> User Journeys</h3>
+        <div>Based on the data we gathered through the surveys we set out to create two personas which represent our
+          target
+          demographic.
+          The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the
+          next
+          level. This user would like to make offline
+          activities more appealing through the app, mainly by organising activities with people she meets on the app.
+        </div>
+        <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
+        <div>Knowing what the potential users of our app want and expect, we can create user journeys which demonstrate
+          how
+          their average experience looks
+          like with similar apps available on the market. </div>
+        <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
+      </div>
+      <h3>Wireframes</h3>
+      <div class="wireframes">
+        <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
+        <a href="img/Wireframes/Wireframes-02.png"><img src="img/Wireframes/Wireframes-02.png"></a>
+        <a href="img/Wireframes/Wireframes-03.png"><img src="img/Wireframes/Wireframes-03.png"></a>
+        <a href="img/Wireframes/Wireframes-04.png"><img src="img/Wireframes/Wireframes-04.png"></a>
+        <a href="img/Wireframes/Wireframes-05.png"><img src="img/Wireframes/Wireframes-05.png"></a>
+        <a href="img/Wireframes/Wireframes-06.png"><img src="img/Wireframes/Wireframes-06.png"></a>
+        <a href="img/Wireframes/Wireframes-07.png"><img src="img/Wireframes/Wireframes-07.png"></a>
+        <a href="img/Wireframes/Wireframes-08.png"><img src="img/Wireframes/Wireframes-08.png"></a>
+        <a href="img/Wireframes/Wireframes-09.png"><img src="img/Wireframes/Wireframes-09.png"></a>
+        <a href="img/Wireframes/Wireframes-10.png"><img src="img/Wireframes/Wireframes-10.png"></a>
+        <a href="img/Wireframes/Wireframes-11.png"><img src="img/Wireframes/Wireframes-11.png"></a>
+        <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
+        <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
+        <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a>
+      </div>
+      <h3>User Flow</h3>
+      <div class="userflow">
+        <a href="img/userflow.png"><img src="img/userflow.png"></a>
+      </div>
     </div>
     <div id="finalDesign" class="tab-pane fade">
       <h3>Final Design</h3>
-      <a data-toggle="modal" data-target="#myModal"><img src="img/student.png"></a>
-      <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+      <a data-toggle="modal" data-target="#persona1"><img src="img/student.png"></a>
+      <div id="persona1" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-body">
-                <img src="img/student.png" class="img-responsive">
+              <img src="img/student.png" class="img-responsive">
             </div>
           </div>
         </div>
       </div>
-      <a data-toggle="modal" data-target="#myModal"><img src="img/nerd.png"></a>
-      <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+      <a data-toggle="modal" data-target="#persona2"><img src="img/nerd.png"></a>
+      <div id="persona2" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-body">
-                <img src="img/nerd.png" class="img-responsive">
+              <img src="img/nerd.png" class="img-responsive">
             </div>
           </div>
         </div>
@@ -198,111 +246,76 @@
   </div>
 
 
-### Typography
-<div class="typography">
-  <div>
-    <div class="font1">Montserrat</div>
-    <div class="font2">Montserrat</div>
-    <div class="font3">Montserrat</div>
+  ### Typography
+  <div class="typography">
+    <div>
+      <div class="font1">Montserrat</div>
+      <div class="font2">Montserrat</div>
+      <div class="font3">Montserrat</div>
+    </div>
+    <div> We used Montserrat font by Julieta Ulanovsky, it's a clean and elegant font that is easy to understand</div>
   </div>
-  <div> We used Montserrat font by Julieta Ulanovsky, it's a clean and elegant font that is easy to understand</div>
-</div>
 
-<div class="user-journeys">
-<h3 id= "personas"> User Journeys</h3>
-<div>Based on the data we gathered through the surveys we set out to create two personas which represent our target demographic. 
-The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the next level. This user would like to make offline
- activities more appealing through the app, mainly by organising activities with people she meets on the app. </div>
- <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
-<div>Knowing what the potential users of our app want and expect, we can create user journeys which demonstrate how their average experience looks
-like with similar apps available on the market. </div>
- <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
-</div>
 
-### Color Palette
 
-<div class="color-palette">
-  <a href="img/ColorPalette.png"><img src="img/ColorPalette.png"></a>
-  <div> We decided to go with warmer colors because they are associated with heightened emotions and passion. We want our users to feel welcome and to feel good when using our app. Choosing this color palette allows for a dramatic change when the app's grayscale feature is active </div>
-</div>
+  ### Color Palette
 
-### Sketches
+  <div class="color-palette">
+    <a href="img/ColorPalette.png"><img src="img/ColorPalette.png"></a>
+    <div> We decided to go with warmer colors because they are associated with heightened emotions and passion. We want
+      our users to feel welcome and to feel good when using our app. Choosing this color palette allows for a dramatic
+      change when the app's grayscale feature is active </div>
+  </div>
 
-To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our app to
-look like.
 
-<div class="sketches">
-  <a href="img/Sketch1.png"><img src="img/Sketch1.png"></a>
-  <a href="img/Sketch2.png"><img src="img/Sketch2.png"></a>
-  <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
-</div>
 
-### Wireframes
 
-<div class="wireframes">
-  <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
-  <a href="img/Wireframes/Wireframes-02.png"><img src="img/Wireframes/Wireframes-02.png"></a>
-  <a href="img/Wireframes/Wireframes-03.png"><img src="img/Wireframes/Wireframes-03.png"></a>
-  <a href="img/Wireframes/Wireframes-04.png"><img src="img/Wireframes/Wireframes-04.png"></a>
-  <a href="img/Wireframes/Wireframes-05.png"><img src="img/Wireframes/Wireframes-05.png"></a>
-  <a href="img/Wireframes/Wireframes-06.png"><img src="img/Wireframes/Wireframes-06.png"></a>
-  <a href="img/Wireframes/Wireframes-07.png"><img src="img/Wireframes/Wireframes-07.png"></a>
-  <a href="img/Wireframes/Wireframes-08.png"><img src="img/Wireframes/Wireframes-08.png"></a>
-  <a href="img/Wireframes/Wireframes-09.png"><img src="img/Wireframes/Wireframes-09.png"></a>
-  <a href="img/Wireframes/Wireframes-10.png"><img src="img/Wireframes/Wireframes-10.png"></a>
-  <a href="img/Wireframes/Wireframes-11.png"><img src="img/Wireframes/Wireframes-11.png"></a>
-  <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
-  <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
-  <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a>
-</div>
 
-### User FLow
+  ### User FLow
 
-<div class="userflow">
-  <a href="img/userflow.png"><img src="img/userflow.png"></a>
-</div>
 
-### Features
-<div class="prototypes1">
-  <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
-  <div>Social Media</div>
-</div>
 
-<div class="prototypes2">
-  <a href="img/Prototypes/Prototypes-04.png"><img src="img/Prototypes/Prototypes-04.png"></a>
-  <div>Messaging</div>
-</div>
+  ### Features
+  <div class="prototypes1">
+    <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
+    <div>Social Media</div>
+  </div>
 
-<div class="prototypes1">
-  <a href="img/Prototypes/Prototypes-01.png"><img src="img/Prototypes/Prototypes-01.png"></a>
-  <div>Group calls</div>
-</div>
+  <div class="prototypes2">
+    <a href="img/Prototypes/Prototypes-04.png"><img src="img/Prototypes/Prototypes-04.png"></a>
+    <div>Messaging</div>
+  </div>
 
-<div class="prototypes2">
-  <a href="img/Prototypes/planner.png"><img src="img/Prototypes/planner.png"></a>
-  <div>Planner</div>
-</div>
+  <div class="prototypes1">
+    <a href="img/Prototypes/Prototypes-01.png"><img src="img/Prototypes/Prototypes-01.png"></a>
+    <div>Group calls</div>
+  </div>
 
-<div class="prototypes1">
-  <a href="img/Prototypes/Prototypes-11.png"><img src="img/Prototypes/Prototypes-11.png"></a>
-  <div>Deep Focus</div>
-</div>
+  <div class="prototypes2">
+    <a href="img/Prototypes/planner.png"><img src="img/Prototypes/planner.png"></a>
+    <div>Planner</div>
+  </div>
 
-<div class="prototypes2">
-  <a href="img/Prototypes/Prototypes-18.png"><img src="img/Prototypes/Prototypes-18.png"></a>
-  <div>Fitness</div>
-</div>
+  <div class="prototypes1">
+    <a href="img/Prototypes/Prototypes-11.png"><img src="img/Prototypes/Prototypes-11.png"></a>
+    <div>Deep Focus</div>
+  </div>
 
-<div class="prototypes1">
-  <a href="img/Prototypes/Prototypes-19.png"><img src="img/Prototypes/Prototypes-19.png"></a>
-  <div>Fitness start</div>
-</div>
+  <div class="prototypes2">
+    <a href="img/Prototypes/Prototypes-18.png"><img src="img/Prototypes/Prototypes-18.png"></a>
+    <div>Fitness</div>
+  </div>
 
-<div class="prototypes3">
-  <a href="img/Prototypes/Prototypes-12.png"><img src="img/Prototypes/Prototypes-12.png"></a>
-  <a href="img/Prototypes/Prototypes-13.png"><img src="img/Prototypes/Prototypes-13.png"></a>
-  <div>Gray</div>
-</div>
+  <div class="prototypes1">
+    <a href="img/Prototypes/Prototypes-19.png"><img src="img/Prototypes/Prototypes-19.png"></a>
+    <div>Fitness start</div>
+  </div>
 
-<h2 id="finalDesign">Final Design</h2>
-![Final Design](img/finalDesign.gif)
+  <div class="prototypes3">
+    <a href="img/Prototypes/Prototypes-12.png"><img src="img/Prototypes/Prototypes-12.png"></a>
+    <a href="img/Prototypes/Prototypes-13.png"><img src="img/Prototypes/Prototypes-13.png"></a>
+    <div>Gray</div>
+  </div>
+
+  <h2 id="finalDesign">Final Design</h2>
+  ![Final Design](img/finalDesign.gif)
