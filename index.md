@@ -209,32 +209,6 @@
           like with similar apps available on the market. </div>
         <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
       </div>
-      <h3>Sketches</h3>
-      <p>To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our
-        app to
-        look like.</p>
-      <div class="sketches">
-        <a href="img/Sketch1.png"><img src="img/Sketch1.png"></a>
-        <a href="img/Sketch2.png"><img src="img/Sketch2.png"></a>
-        <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
-      </div>
-      <h3>Wireframes</h3>
-      <div class="wireframes">
-        <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
-        <a href="img/Wireframes/Wireframes-02.png"><img src="img/Wireframes/Wireframes-02.png"></a>
-        <a href="img/Wireframes/Wireframes-03.png"><img src="img/Wireframes/Wireframes-03.png"></a>
-        <a href="img/Wireframes/Wireframes-04.png"><img src="img/Wireframes/Wireframes-04.png"></a>
-        <a href="img/Wireframes/Wireframes-05.png"><img src="img/Wireframes/Wireframes-05.png"></a>
-        <a href="img/Wireframes/Wireframes-06.png"><img src="img/Wireframes/Wireframes-06.png"></a>
-        <a href="img/Wireframes/Wireframes-07.png"><img src="img/Wireframes/Wireframes-07.png"></a>
-        <a href="img/Wireframes/Wireframes-08.png"><img src="img/Wireframes/Wireframes-08.png"></a>
-        <a href="img/Wireframes/Wireframes-09.png"><img src="img/Wireframes/Wireframes-09.png"></a>
-        <a href="img/Wireframes/Wireframes-10.png"><img src="img/Wireframes/Wireframes-10.png"></a>
-        <a href="img/Wireframes/Wireframes-11.png"><img src="img/Wireframes/Wireframes-11.png"></a>
-        <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
-        <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
-        <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a>
-      </div>
       <h3>User Flow</h3>
       <div class="userflow">
         <a href="img/userflow.png"><img src="img/userflow.png"></a>
@@ -260,6 +234,32 @@
           our users to feel welcome and to feel good when using our app. Choosing this color palette allows for a
           dramatic
           change when the app's grayscale feature is active </div>
+      </div>
+      <h3>Sketches</h3>
+      <p>To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our
+        app to
+        look like.</p>
+      <div class="sketches">
+        <a href="img/Sketch1.png"><img src="img/Sketch1.png"></a>
+        <a href="img/Sketch2.png"><img src="img/Sketch2.png"></a>
+        <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
+      </div>
+      <h3>Wireframes</h3>
+      <div class="wireframes">
+        <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
+        <a href="img/Wireframes/Wireframes-02.png"><img src="img/Wireframes/Wireframes-02.png"></a>
+        <a href="img/Wireframes/Wireframes-03.png"><img src="img/Wireframes/Wireframes-03.png"></a>
+        <a href="img/Wireframes/Wireframes-04.png"><img src="img/Wireframes/Wireframes-04.png"></a>
+        <a href="img/Wireframes/Wireframes-05.png"><img src="img/Wireframes/Wireframes-05.png"></a>
+        <a href="img/Wireframes/Wireframes-06.png"><img src="img/Wireframes/Wireframes-06.png"></a>
+        <a href="img/Wireframes/Wireframes-07.png"><img src="img/Wireframes/Wireframes-07.png"></a>
+        <a href="img/Wireframes/Wireframes-08.png"><img src="img/Wireframes/Wireframes-08.png"></a>
+        <a href="img/Wireframes/Wireframes-09.png"><img src="img/Wireframes/Wireframes-09.png"></a>
+        <a href="img/Wireframes/Wireframes-10.png"><img src="img/Wireframes/Wireframes-10.png"></a>
+        <a href="img/Wireframes/Wireframes-11.png"><img src="img/Wireframes/Wireframes-11.png"></a>
+        <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
+        <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
+        <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a>
       </div>
       <h3> Features </h3>
       <div class="prototypes1">
