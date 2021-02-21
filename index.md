@@ -412,10 +412,10 @@ font that allows the user to read any of the super app's content with ease, as s
             </div>
           </div>
         </div>
-        <div>For facilitating the exchange of ideas and interests.
+        <p>For facilitating the exchange of ideas and interests.
           Posts that promote a healthy lifestyle according to those who see it are prioritized.
           Posts that consist of one or more users inviting other people to participate in a social and/or fitness
-          activity are similarly promoted.</div>
+          activity are similarly promoted.</p>
       </div>
       <div class="prototypes2">
         <a data-toggle="modal" data-target="#Prototype4"><img src="img/Prototypes/Prototypes-04.png"></a>
@@ -428,7 +428,7 @@ font that allows the user to read any of the super app's content with ease, as s
             </div>
           </div>
         </div>
-        <div>Messaging</div>
+        <p>Messaging</p>
       </div>
       <div class="prototypes1">
         <a data-toggle="modal" data-target="#Prototype1"><img src="img/Prototypes/Prototypes-01.png"></a>
@@ -454,10 +454,10 @@ font that allows the user to read any of the super app's content with ease, as s
             </div>
           </div>
         </div>
-        <div>Acts as a highly customizable agenda that suggests activities during free time slots based on the user's
+        <p>Acts as a highly customizable agenda that suggests activities during free time slots based on the user's
           profile. Users can spend coins they've earned
           by using the Deep Focus feature to buy time where they can do what they please and won't be recommended
-          anything by the app</div>
+          anything by the app</p>
       </div>
       <div class="prototypes1">
         <a data-toggle="modal" data-target="#Prototype11"><img src="img/Prototypes/Prototypes-11.png"></a>
@@ -470,10 +470,10 @@ font that allows the user to read any of the super app's content with ease, as s
             </div>
           </div>
         </div>
-        <div>Limits the user's procrastination so they can work more efficiently and thus spend more time doing diverse
+        <p>Limits the user's procrastination so they can work more efficiently and thus spend more time doing diverse
           activities that don't involve
           looking at screens. Staying concentrated for a longer amount of time rewards the user with a bigger amount of
-          coins.</div>
+          coins.</p>
       </div>
       <div class="prototypes2">
         <a data-toggle="modal" data-target="#Prototype18"><img src="img/Prototypes/Prototypes-18.png"></a>
@@ -486,10 +486,10 @@ font that allows the user to read any of the super app's content with ease, as s
             </div>
           </div>
         </div>
-        <div>When the user decides to plan a workout session or routine, the user is asked for what type of workout they
+        <p>When the user decides to plan a workout session or routine, the user is asked for what type of workout they
           would like to do.
           The app uses the information it knows about the user and based on their capabilities and preferences it
-          constructs the most appropriate workout.</div>
+          constructs the most appropriate workout.</p>
       </div>
       <div class="prototypes1">
         <a data-toggle="modal" data-target="#Prototype19"><img src="img/Prototypes/Prototypes-19.png"></a>
@@ -502,7 +502,7 @@ font that allows the user to read any of the super app's content with ease, as s
             </div>
           </div>
         </div>
-        <div>Workout Timer</div>
+        <p>Workout Timer</p>
       </div>
       <div class="prototypes3">
         <a data-toggle="modal" data-target="#Prototype12"><img src="img/Prototypes/Prototypes-12.png"></a>
@@ -525,10 +525,10 @@ font that allows the user to read any of the super app's content with ease, as s
             </div>
           </div>
         </div>
-        <div>Spending too much time on the super app will cause the interface to deteriorate.
+        <p>Spending too much time on the super app will cause the interface to deteriorate.
           When a user exceeds their daily screen time quota the app's vibrant colors will fade away until only a dull
           gray husk is left,
-          indirectly incentivizing the user to do something else.</div>
+          indirectly incentivizing the user to do something else.</p>
       </div>
       <h3>Final Design</h3>
       <a data-toggle="modal" data-target="#finalDesignGif"><img src="img/finalDesign.gif"></a>

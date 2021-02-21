@@ -84,7 +84,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 ) !important;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  div {
+  p {
     font-size: 20px;
     width: 280px;
   }
@@ -99,7 +99,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 ) !important;
   justify-content: space-between;
   flex-direction: row-reverse;
   align-items: center;
-  div {
+  p {
     font-size: 20px;
     width: 280px;
   }
@@ -116,7 +116,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 ) !important;
   align-items: center;
   flex-wrap: wrap;
   margin-top: 20px;
-  div {
+  p {
     font-size: 20px;
   }
   img {
