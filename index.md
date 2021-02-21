@@ -172,53 +172,47 @@
         </a>
       </div>
       <h3>Personas</h3>
-      <p> Based on the data we gathered through the surveys we set out to create two personas which represent our target
-        demographic.
-        The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the next
-        level. This user would like to make offline
-        activities more appealing through the app, mainly by organising activities with people she meets on the app. <p>
-          <a data-toggle="modal" data-target="#persona1"><img src="img/student.png"></a>
-          <div id="persona1" class="modal fade" tabindex="-1" role="dialog">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-body">
-                  <img src="img/student.png" class="img-responsive">
-                </div>
-              </div>
+      <a data-toggle="modal" data-target="#persona1"><img src="img/student.png"></a>
+      <div id="persona1" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <img src="img/student.png" class="img-responsive">
             </div>
           </div>
-          <p>The second persona depicts the fear driven user who spends a lot of time in front of a screen who wants to
-            fix his lifestyle.
-            This user seeks an app that understands his needs and allows him to slowly improve his habits so that he
-            doesn't give up. </p>
-          <a data-toggle="modal" data-target="#persona2"><img src="img/nerd.png"></a>
-          <div id="persona2" class="modal fade" tabindex="-1" role="dialog">
-            <div class="modal-dialog">
-              <div class="modal-content">
-                <div class="modal-body">
-                  <img src="img/nerd.png" class="img-responsive">
-                </div>
-              </div>
+        </div>
+      </div>
+      <a data-toggle="modal" data-target="#persona2"><img src="img/nerd.png"></a>
+      <div id="persona2" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <img src="img/nerd.png" class="img-responsive">
             </div>
           </div>
-          <div class="user-journeys">
-            <h3> User Journeys</h3>
-            <div>Knowing what the potential users of our app want and expect, we can create user journeys which
-              demonstrate how their average experience looks
-              like with similar apps available on the market.
-            </div>
-            <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
-            <div>Knowing what the potential users of our app want and expect, we can create user journeys which
-              demonstrate
-              how
-              their average experience looks
-              like with similar apps available on the market. </div>
-            <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
-          </div>
-          <h3>User Flow</h3>
-          <div class="userflow">
-            <a href="img/userflow.png"><img src="img/userflow.png"></a>
-          </div>
+        </div>
+      </div>
+      <div class="user-journeys">
+        <h3> User Journeys</h3>
+        <div>Based on the data we gathered through the surveys we set out to create two personas which represent our
+          target
+          demographic.
+          The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the
+          next
+          level. This user would like to make offline
+          activities more appealing through the app, mainly by organising activities with people she meets on the app.
+        </div>
+        <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
+        <div>Knowing what the potential users of our app want and expect, we can create user journeys which demonstrate
+          how
+          their average experience looks
+          like with similar apps available on the market. </div>
+        <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
+      </div>
+      <h3>User Flow</h3>
+      <div class="userflow">
+        <a href="img/userflow.png"><img src="img/userflow.png"></a>
+      </div>
     </div>
     <div id="finalDesign" class="tab-pane">
       <h2>Final Design</h2>
@@ -405,10 +399,7 @@
             </div>
           </div>
         </div>
-        <div>Social Media: For facilitating the exchange of ideas and interests.
-          Posts that promote a healthy lifestyle according to those who see it are prioritized.
-          Posts that consist of one or more users inviting other people to participate in a social and/or fitness
-          activity are similarly promoted.</div>
+        <div>Social Media</div>
       </div>
       <div class="prototypes2">
         <a data-toggle="modal" data-target="#Prototype4"><img src="img/Prototypes/Prototypes-04.png"></a>
@@ -447,10 +438,7 @@
             </div>
           </div>
         </div>
-        <div>Acts as a highly customizable agenda that suggests activities during free time slots based on the user's
-          profile. Users can spend coins they've earned
-          by using the Deep Focus feature to buy time where they can do what they please and won't be recommended
-          anything by the app. </div>
+        <div>Planner</div>
       </div>
       <div class="prototypes1">
         <a data-toggle="modal" data-target="#Prototype11"><img src="img/Prototypes/Prototypes-11.png"></a>
@@ -463,10 +451,7 @@
             </div>
           </div>
         </div>
-        <div>Limits the user's procrastination so they can work more efficiently and thus spend more time doing diverse
-          activities that don't involve
-          looking at screens. Staying concentrated for a longer amount of time rewards the user with a bigger amount of
-          coins.</div>
+        <div>Deep Focus</div>
       </div>
       <div class="prototypes2">
         <a data-toggle="modal" data-target="#Prototype18"><img src="img/Prototypes/Prototypes-18.png"></a>
@@ -479,10 +464,7 @@
             </div>
           </div>
         </div>
-        <div>Fitness: When the user decides to plan a workout session or routine, the user is asked for what type of
-          workout they would like to do.
-          The app uses the information it knows about the user and based on their capabilities and preferences it
-          constructs the most appropriate workout</div>
+        <div>Fitness</div>
       </div>
       <div class="prototypes1">
         <a data-toggle="modal" data-target="#Prototype19"><img src="img/Prototypes/Prototypes-19.png"></a>
@@ -495,10 +477,7 @@
             </div>
           </div>
         </div>
-        <div>Spending too much time on the super app will cause the interface to deteriorate.
-          When a user exceeds their daily screen time quota the app's vibrant colors will fade away until only a dull
-          gray husk is left,
-          indirectly incentivizing the user to do something else.</div>
+        <div>Fitness start</div>
       </div>
       <div class="prototypes3">
         <a data-toggle="modal" data-target="#Prototype12"><img src="img/Prototypes/Prototypes-12.png"></a>
