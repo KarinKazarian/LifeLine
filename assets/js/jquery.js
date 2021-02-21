@@ -10,5 +10,6 @@ $(document).ready(function () {
     $(".act span").text(x);
     $(".prev span").text(y);
   });
-
+  
+  $('#research').trigger('click');
 });
