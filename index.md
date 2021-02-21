@@ -80,7 +80,9 @@
     </div>
     <div id="analysis" class="tab-pane">
       <h3>Survey</h3>
-      <p>To better understand our potential user base, surveys were sent out to see what kinds of people would be
+      <p>To better understand our potential user base, <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLScKe6bgUikIwR2UZZE1eU0FnCzc8RLxxlflVDS5PQQwP7CZRQ/viewform?usp=sf_link">surveys</a>
+        were sent out to see what kinds of people would be
         willing to use
         a super app that promotes a healthy lifestyle and what they would expect from such an app and what they would
         want to
@@ -237,11 +239,11 @@
       <h3>Color Palette</h3>
       <div class="color-palette">
         <a href="img/ColorPalette.png"><img src="img/ColorPalette.png"></a>
-        <div> We decided to go with warmer colors because they are associated with heightened emotions and passion. We
-          want
-          our users to feel welcome and to feel good when using our app. Choosing this color palette allows for a
-          dramatic
-          change when the app's grayscale feature is active </div>
+        <div>The super app features warmer colors so that using it causes minimal eye fatigue and doesn't disrupt the
+          user's sleep cycle as blue light has shown to do.
+          Warm color are more related to emotion and passion, which conveys the broad "feel" of the app, which is about
+          qualitative improvement more than quantitative improvement.
+          The color palette also enhances the dichotomy between the app's two states as shown belo</div>
       </div>
       <h3>Sketches</h3>
       <p>To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our
