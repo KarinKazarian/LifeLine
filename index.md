@@ -246,7 +246,47 @@
       </div>
       <h3>Wireframes</h3>
       <div class="wireframes">
-        <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
+        <a data-toggle="modal" data-target="#Wireframe1"><img src="img/Wireframes/Wireframes-01.png"></a>
+        <div id="Wireframe1" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-01.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe2"><img src="img/Wireframes/Wireframes-02.png"></a>
+        <div id="Wireframe2" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-02.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe3"><img src="img/Wireframes/Wireframes-03.png"></a>
+        <div id="Wireframe1" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-03.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe4"><img src="img/Wireframes/Wireframes-04.png"></a>
+        <div id="Wireframe1" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-04.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
         <a href="img/Wireframes/Wireframes-02.png"><img src="img/Wireframes/Wireframes-02.png"></a>
         <a href="img/Wireframes/Wireframes-03.png"><img src="img/Wireframes/Wireframes-03.png"></a>
         <a href="img/Wireframes/Wireframes-04.png"><img src="img/Wireframes/Wireframes-04.png"></a>
@@ -259,7 +299,7 @@
         <a href="img/Wireframes/Wireframes-11.png"><img src="img/Wireframes/Wireframes-11.png"></a>
         <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
         <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
-        <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a>
+        <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a> -->
       </div>
       <h3> Features </h3>
       <div class="prototypes1">
