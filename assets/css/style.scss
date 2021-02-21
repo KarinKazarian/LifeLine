@@ -1,52 +1,58 @@
----
----
-
-body {
+--- --- body {
   font-family: 'Montserrat' !important;
 }
+
 #header_wrap {
   position: sticky;
   top: 0;
   left: 0;
   z-index: 1000;
-  background: rgba( 255, 255, 255, 0.25 ) !important;
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 4px );
--webkit-backdrop-filter: blur( 4px );
+  background: rgba(255, 255, 255, 0.25) !important;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+
   header {
     height: 80px;
     padding: 0px !important;
   }
 }
+
 @import 'jekyll-theme-slate';
+
 #main_content_wrap {
   background: white;
 }
+
 .nav-tabs {
   max-width: 340px;
   margin: auto;
+
   a {
     color: black;
   }
 }
+
 .tab {
   position: sticky;
   top: 0;
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
-  background: rgba( 255, 255, 255, 0.25 );
-backdrop-filter: blur( 4px );
--webkit-backdrop-filter: blur( 4px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 );
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
 }
+
 .tab a {
   color: black;
 }
+
 #project_title img {
   box-shadow: none !important;
 }
+
 .tablinks {
   text-decoration: none;
   background-color: inherit;
@@ -58,17 +64,21 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   transition: 0.3s;
   color: black;
 }
+
 .tab a:hover {
   text-decoration: none;
   background-color: #ddd;
 }
+
 .carousel .item {
   background-color: #f2f2f2;
   height: 300px;
 }
+
 .carousel img {
   margin: auto;
 }
+
 .sketches img {
   width: 203px;
   height: 260px;
@@ -84,10 +94,12 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   display: flex;
   justify-content: space-between;
   align-items: center;
+
   div {
     font-size: 20px;
     width: 280px;
   }
+
   a img {
     width: 300px;
     // height: 500px;
@@ -99,10 +111,12 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   justify-content: space-between;
   flex-direction: row-reverse;
   align-items: center;
+
   div {
     font-size: 20px;
     width: 280px;
   }
+
   img {
     width: 300px;
     // height: 500px;
@@ -116,9 +130,11 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   align-items: center;
   flex-wrap: wrap;
   margin-top: 20px;
+
   div {
     font-size: 20px;
   }
+
   img {
     width: 300px;
     // height: 500px;
@@ -128,12 +144,15 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 .typography {
   display: flex;
   flex-direction: column;
+
   .font1 {
     font-weight: 200;
   }
+
   .font2 {
     font-weight: 600;
   }
+
   .font3 {
     font-weight: 900;
   }
