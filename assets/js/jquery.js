@@ -10,6 +10,6 @@ $(document).ready(function(){
     });  
     setTimeout(function() {
       $('#active1').click();
-      console.log('hello');
+      console.log('hi');
      },3000);
   });
