@@ -88,3 +88,17 @@ body {
     // height: 500px;
   }
 }
+
+.typography {
+  display: flex;
+  flex-direction: column;
+  .font1 {
+    font-weight: 200;
+  }
+  .font2 {
+    font-weight: 600;
+  }
+  .font3 {
+    font-weight: 900;
+  }
+}

@@ -181,17 +181,45 @@
     </div>
     <div id="menu4" class="tab-pane fade">
       <h3>User Personas</h3>
-      <a href="img/student.png"><img src="img/student.png"></a>
-      <a href="img/nerd.png"><img src="img/nerd.png"></a>
+      <a data-toggle="modal" data-target="#myModal"><img src="img/student.png"></a>
+      <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+                <img src="img/student.png" class="img-responsive">
+            </div>
+          </div>
+        </div>
+      </div>
+      <a data-toggle="modal" data-target="#myModal"><img src="img/nerd.png"></a>
+      <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+                <img src="img/nerd.png" class="img-responsive">
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 
+
+### Typography
+<div class="typography">
+  <div>
+    <div class="font1">Montserrat</div>
+    <div class="font2">Montserrat</div>
+    <div class="font3">Montserrat</div>
+  </div>
+  <div> We used Montserrat font by Julieta Ulanovsky, it's a clean and elegant font that is easy to understand</div>
+</div>
 
 ### Color Palette
 
 <div class="color-palette">
   <a href="img/ColorPalette.png"><img src="img/ColorPalette.png"></a>
-  <div> We decided to go with warmer colors because they are associated with heightened emotions and passion. We want our users to feel welcome and to feel good when using our application. Choosing this color palette allows for a dramatic change when the app's grayscale feature is active </div>
+  <div> We decided to go with warmer colors because they are associated with heightened emotions and passion. We want our users to feel welcome and to feel good when using our app. Choosing this color palette allows for a dramatic change when the app's grayscale feature is active </div>
 </div>
 
 ### Sketches
@@ -222,6 +250,12 @@ look like.
   <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
   <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
   <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a>
+</div>
+
+### User FLow
+
+<div class="userflow">
+  <a href="img/userflow.png"><img src="img/userflow.png"></a>
 </div>
 
 ### Features
