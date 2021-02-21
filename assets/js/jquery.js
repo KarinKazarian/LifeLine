@@ -9,7 +9,7 @@ $(document).ready(function(){
       $(".prev span").text(y);
     });  
     setTimeout(function() {
-      $('#research').trigger("click");
+      $('#active1').trigger("click");
       console.log('hello');
      },3000);
   });
