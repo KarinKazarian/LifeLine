@@ -1,6 +1,6 @@
   <div class="tab-content">
     <div id="research" class="tab-pane active">
-      <h2>Understanding the problem</h2>
+      <h3>Understanding the problem</h3>
       <p>
         Over the past decade, our phones and smart devices have quickly become an extension of ourselves. We use it to
         capture memories by taking photos, to communicate with our family who may live thousands of miles away, to order
