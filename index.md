@@ -172,6 +172,14 @@
         </a>
       </div>
       <h3>Personas</h3>
+      <div>Based on the data we gathered through the surveys we set out to create two personas which represent our
+        target
+        demographic.
+        The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the
+        next
+        level. This user would like to make offline
+        activities more appealing through the app, mainly by organising activities with people she meets on the app.
+      </div>
       <a data-toggle="modal" data-target="#persona1"><img src="img/student.png"></a>
       <div id="persona1" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog">
@@ -181,6 +189,11 @@
             </div>
           </div>
         </div>
+      </div>
+      <div>The second persona depicts the fear driven user who spends a lot of time in front of a screen who wants to
+        fix his lifestyle.
+        This user seeks an app that understands his needs and allows him to slowly improve his habits so that he doesn't
+        give up.
       </div>
       <a data-toggle="modal" data-target="#persona2"><img src="img/nerd.png"></a>
       <div id="persona2" class="modal fade" tabindex="-1" role="dialog">
@@ -194,19 +207,11 @@
       </div>
       <div class="user-journeys">
         <h3> User Journeys</h3>
-        <div>Based on the data we gathered through the surveys we set out to create two personas which represent our
-          target
-          demographic.
-          The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the
-          next
-          level. This user would like to make offline
-          activities more appealing through the app, mainly by organising activities with people she meets on the app.
-        </div>
-        <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
         <div>Knowing what the potential users of our app want and expect, we can create user journeys which demonstrate
           how
           their average experience looks
           like with similar apps available on the market. </div>
+        <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
         <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
       </div>
       <h3>User Flow</h3>
