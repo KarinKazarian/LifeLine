@@ -1,5 +1,5 @@
   <div class="tab-content">
-    <div id="research" class="tab-pane fade">
+    <div id="research" class="tab-pane fade active">
       <h2>Understanding the problem</h2>
       <p>
         Over the past decade, our phones and smart devices have quickly become an extension of ourselves. We use it to

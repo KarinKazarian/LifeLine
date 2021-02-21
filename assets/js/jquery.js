@@ -11,5 +11,4 @@ $(document).ready(function () {
     $(".prev span").text(y);
   });
 
-  $('#research').parent('li').addClass('active');
 });
