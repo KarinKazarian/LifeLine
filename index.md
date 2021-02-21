@@ -267,7 +267,7 @@
           </div>
         </div>
         <a data-toggle="modal" data-target="#Wireframe3"><img src="img/Wireframes/Wireframes-03.png"></a>
-        <div id="Wireframe1" class="modal fade" tabindex="-1" role="dialog">
+        <div id="Wireframe3" class="modal fade" tabindex="-1" role="dialog">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-body">
@@ -277,11 +277,111 @@
           </div>
         </div>
         <a data-toggle="modal" data-target="#Wireframe4"><img src="img/Wireframes/Wireframes-04.png"></a>
-        <div id="Wireframe1" class="modal fade" tabindex="-1" role="dialog">
+        <div id="Wireframe4" class="modal fade" tabindex="-1" role="dialog">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-body">
                 <img src="img/Wireframes/Wireframes-04.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe5"><img src="img/Wireframes/Wireframes-05.png"></a>
+        <div id="Wireframe5" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-05.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe6"><img src="img/Wireframes/Wireframes-06.png"></a>
+        <div id="Wireframe6" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-06.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe7"><img src="img/Wireframes/Wireframes-07.png"></a>
+        <div id="Wireframe4" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-07.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe8"><img src="img/Wireframes/Wireframes-08.png"></a>
+        <div id="Wireframe8" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-08.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe9"><img src="img/Wireframes/Wireframes-09.png"></a>
+        <div id="Wireframe9" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-09.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe10"><img src="img/Wireframes/Wireframes-10.png"></a>
+        <div id="Wireframe10" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-10.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe11"><img src="img/Wireframes/Wireframes-11.png"></a>
+        <div id="Wireframe11" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-11.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe12"><img src="img/Wireframes/Wireframes-12.png"></a>
+        <div id="Wireframe12" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-12.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe13"><img src="img/Wireframes/Wireframes-13.png"></a>
+        <div id="Wireframe13" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-13.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Wireframe14"><img src="img/Wireframes/Wireframes-14.png"></a>
+        <div id="Wireframe14" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Wireframes/Wireframes-14.png" class="img-responsive">
               </div>
             </div>
           </div>
