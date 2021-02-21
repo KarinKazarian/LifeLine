@@ -78,7 +78,7 @@
         app recommends anything, it does so discreetly, it seizes control from the user rarely.
       </p>
     </div>
-    <div id="analysis" class="tab-pane fade">
+    <div id="analysis" class="tab-pane">
       <h3>Survey</h3>
       <p>To better understand our potential user base, surveys were sent out to see what kinds of people would be
         willing to use
@@ -214,7 +214,7 @@
         <a href="img/userflow.png"><img src="img/userflow.png"></a>
       </div>
     </div>
-    <div id="finalDesign" class="tab-pane fade">
+    <div id="finalDesign" class="tab-pane">
       <h2>Final Design</h2>
       <h3>Typography</h3>
       <div class="typography">
