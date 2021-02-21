@@ -4,7 +4,12 @@
 body {
   font-family: 'Montserrat' !important;
 }
-
+#header_wrap {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
 @import 'jekyll-theme-slate';
 #main_content_wrap {
   background: white;
