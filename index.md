@@ -173,6 +173,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+      <br/>
       <h3>Personas</h3>
       <div>Based on the data we gathered through the surveys we set out to create two personas which represent our
         target
@@ -207,6 +208,7 @@
           </div>
         </div>
       </div>
+      <br/>
       <div class="user-journeys">
         <h3> User Journeys</h3>
         <div>Knowing what the potential users of our app want and expect, we can create user journeys which demonstrate
@@ -216,6 +218,7 @@
         <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
         <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
       </div>
+      <br/>
       <h3>User Flow</h3>
       <div class="userflow">
         <a href="img/userflow.png"><img src="img/userflow.png"></a>
