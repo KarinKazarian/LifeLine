@@ -9,6 +9,9 @@ body {
   top: 0;
   left: 0;
   z-index: 1000;
+  header {
+    height: 80px;
+  }
 }
 @import 'jekyll-theme-slate';
 #main_content_wrap {
