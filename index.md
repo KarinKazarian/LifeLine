@@ -173,6 +173,16 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+      <a data-toggle="modal" data-target="#req"><img src="img/req.png"></a>
+      <div id="req" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <img src="img/req.png" class="img-responsive">
+            </div>
+          </div>
+        </div>
+      </div>
       <br/>
       <h3>Personas</h3>
       <div>Based on the data we gathered through the surveys we set out to create two personas which represent our
