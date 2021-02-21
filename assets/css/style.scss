@@ -12,6 +12,9 @@ body {
 .nav-tabs {
   max-width: 640px;
   margin: auto;
+  a {
+    color: black;
+  }
 }
 .tab {
   position: sticky;
