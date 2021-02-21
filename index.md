@@ -220,6 +220,7 @@
       </div>
       <br/>
       <h3>User Flow</h3>
+      <p> Using our mockups we created a user flow showing the ways we anticipate users to use our app</p>
       <div class="userflow">
         <a href="img/userflow.png"><img src="img/userflow.png"></a>
       </div>
@@ -233,7 +234,8 @@
           <div class="font2">Montserrat</div>
           <div class="font3">Montserrat</div>
         </div>
-        <div> We used Montserrat font by Julieta Ulanovsky, it's a clean and elegant font that is easy to understand
+        <div> We used the Montserrat font by Julieta Ulanovsky, it's a clean and elegant and most importantly an accessible
+font that allows the user to read any of the super app's content with ease, as such an app is meant to be used by everyone.
         </div>
       </div>
       <h3>Color Palette</h3>
