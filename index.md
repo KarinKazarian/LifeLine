@@ -79,8 +79,7 @@
       </p>
     </div>
     <div id="analysis" class="tab-pane fade">
-      <h3>Analysis</h3>
-      <h2>Surveys</h2>
+      <h3>Survey</h3>
       <p>To better understand our potential user base, surveys were sent out to see what kinds of people would be
         willing to use
         a super app that promotes a healthy lifestyle and what they would expect from such an app and what they would
@@ -172,14 +171,26 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-      <h3>Sketches</h3>
-      <p>To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our
-        app to
-        look like.</p>
-      <div class="sketches">
-        <a href="img/Sketch1.png"><img src="img/Sketch1.png"></a>
-        <a href="img/Sketch2.png"><img src="img/Sketch2.png"></a>
-        <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
+      <h3>Personas</h3>
+      <a data-toggle="modal" data-target="#persona1"><img src="img/student.png"></a>
+      <div id="persona1" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <img src="img/student.png" class="img-responsive">
+            </div>
+          </div>
+        </div>
+      </div>
+      <a data-toggle="modal" data-target="#persona2"><img src="img/nerd.png"></a>
+      <div id="persona2" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <img src="img/nerd.png" class="img-responsive">
+            </div>
+          </div>
+        </div>
       </div>
       <div class="user-journeys">
         <h3> User Journeys</h3>
@@ -197,6 +208,15 @@
           their average experience looks
           like with similar apps available on the market. </div>
         <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
+      </div>
+      <h3>Sketches</h3>
+      <p>To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our
+        app to
+        look like.</p>
+      <div class="sketches">
+        <a href="img/Sketch1.png"><img src="img/Sketch1.png"></a>
+        <a href="img/Sketch2.png"><img src="img/Sketch2.png"></a>
+        <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
       </div>
       <h3>Wireframes</h3>
       <div class="wireframes">
@@ -221,101 +241,70 @@
       </div>
     </div>
     <div id="finalDesign" class="tab-pane fade">
+      <h2>Final Design</h2>
+      <h3>Typography</h3>
+      <div class="typography">
+        <div>
+          <div class="font1">Montserrat</div>
+          <div class="font2">Montserrat</div>
+          <div class="font3">Montserrat</div>
+        </div>
+        <div> We used Montserrat font by Julieta Ulanovsky, it's a clean and elegant font that is easy to understand
+        </div>
+      </div>
+      <h3>Color Palette</h3>
+      <div class="color-palette">
+        <a href="img/ColorPalette.png"><img src="img/ColorPalette.png"></a>
+        <div> We decided to go with warmer colors because they are associated with heightened emotions and passion. We
+          want
+          our users to feel welcome and to feel good when using our app. Choosing this color palette allows for a
+          dramatic
+          change when the app's grayscale feature is active </div>
+      </div>
+      <h3> Features </h3>
+      <div class="prototypes1">
+        <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
+        <div>Social Media</div>
+      </div>
+      <div class="prototypes2">
+        <a href="img/Prototypes/Prototypes-04.png"><img src="img/Prototypes/Prototypes-04.png"></a>
+        <div>Messaging</div>
+      </div>
+      <div class="prototypes1">
+        <a href="img/Prototypes/Prototypes-01.png"><img src="img/Prototypes/Prototypes-01.png"></a>
+        <div>Group calls</div>
+      </div>
+      <div class="prototypes2">
+        <a href="img/Prototypes/planner.png"><img src="img/Prototypes/planner.png"></a>
+        <div>Planner</div>
+      </div>
+      <div class="prototypes1">
+        <a href="img/Prototypes/Prototypes-11.png"><img src="img/Prototypes/Prototypes-11.png"></a>
+        <div>Deep Focus</div>
+      </div>
+      <div class="prototypes2">
+        <a href="img/Prototypes/Prototypes-18.png"><img src="img/Prototypes/Prototypes-18.png"></a>
+        <div>Fitness</div>
+      </div>
+      <div class="prototypes1">
+        <a href="img/Prototypes/Prototypes-19.png"><img src="img/Prototypes/Prototypes-19.png"></a>
+        <div>Fitness start</div>
+      </div>
+      <div class="prototypes3">
+        <a href="img/Prototypes/Prototypes-12.png"><img src="img/Prototypes/Prototypes-12.png"></a>
+        <a href="img/Prototypes/Prototypes-13.png"><img src="img/Prototypes/Prototypes-13.png"></a>
+        <div>Gray</div>
+      </div>
       <h3>Final Design</h3>
-      <a data-toggle="modal" data-target="#persona1"><img src="img/student.png"></a>
-      <div id="persona1" class="modal fade" tabindex="-1" role="dialog">
+      <a data-toggle="modal" data-target="#finalDesignGif"><img src="img/finalDesign.gif"></a>
+      <div id="finalDesignGif" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-body">
-              <img src="img/student.png" class="img-responsive">
-            </div>
-          </div>
-        </div>
-      </div>
-      <a data-toggle="modal" data-target="#persona2"><img src="img/nerd.png"></a>
-      <div id="persona2" class="modal fade" tabindex="-1" role="dialog">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-body">
-              <img src="img/nerd.png" class="img-responsive">
+              <img src="img/finalDesign.gif" class="img-responsive">
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-
-
-  ### Typography
-  <div class="typography">
-    <div>
-      <div class="font1">Montserrat</div>
-      <div class="font2">Montserrat</div>
-      <div class="font3">Montserrat</div>
-    </div>
-    <div> We used Montserrat font by Julieta Ulanovsky, it's a clean and elegant font that is easy to understand</div>
-  </div>
-
-
-
-  ### Color Palette
-
-  <div class="color-palette">
-    <a href="img/ColorPalette.png"><img src="img/ColorPalette.png"></a>
-    <div> We decided to go with warmer colors because they are associated with heightened emotions and passion. We want
-      our users to feel welcome and to feel good when using our app. Choosing this color palette allows for a dramatic
-      change when the app's grayscale feature is active </div>
-  </div>
-
-
-
-
-
-  ### User FLow
-
-
-
-  ### Features
-  <div class="prototypes1">
-    <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
-    <div>Social Media</div>
-  </div>
-
-  <div class="prototypes2">
-    <a href="img/Prototypes/Prototypes-04.png"><img src="img/Prototypes/Prototypes-04.png"></a>
-    <div>Messaging</div>
-  </div>
-
-  <div class="prototypes1">
-    <a href="img/Prototypes/Prototypes-01.png"><img src="img/Prototypes/Prototypes-01.png"></a>
-    <div>Group calls</div>
-  </div>
-
-  <div class="prototypes2">
-    <a href="img/Prototypes/planner.png"><img src="img/Prototypes/planner.png"></a>
-    <div>Planner</div>
-  </div>
-
-  <div class="prototypes1">
-    <a href="img/Prototypes/Prototypes-11.png"><img src="img/Prototypes/Prototypes-11.png"></a>
-    <div>Deep Focus</div>
-  </div>
-
-  <div class="prototypes2">
-    <a href="img/Prototypes/Prototypes-18.png"><img src="img/Prototypes/Prototypes-18.png"></a>
-    <div>Fitness</div>
-  </div>
-
-  <div class="prototypes1">
-    <a href="img/Prototypes/Prototypes-19.png"><img src="img/Prototypes/Prototypes-19.png"></a>
-    <div>Fitness start</div>
-  </div>
-
-  <div class="prototypes3">
-    <a href="img/Prototypes/Prototypes-12.png"><img src="img/Prototypes/Prototypes-12.png"></a>
-    <a href="img/Prototypes/Prototypes-13.png"><img src="img/Prototypes/Prototypes-13.png"></a>
-    <div>Gray</div>
-  </div>
-
-  <h2 id="finalDesign">Final Design</h2>
-  ![Final Design](img/finalDesign.gif)
