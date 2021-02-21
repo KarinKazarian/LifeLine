@@ -8,7 +8,10 @@ body {
 #main_content_wrap {
   background: white;
 }
-.nav-tabs
+.nav-tabs {
+  max-width: 640px;
+  margin: auto;
+}
 .tab {
   position: sticky;
   top: 0;
