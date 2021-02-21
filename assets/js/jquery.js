@@ -8,8 +8,4 @@ $(document).ready(function(){
       $(".act span").text(x);
       $(".prev span").text(y);
     });  
-    setTimeout(function() {
-      $('#active1').trigger( "click" );
-      console.log('hihi');
-     },3000);
   });
