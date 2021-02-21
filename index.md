@@ -386,53 +386,120 @@
             </div>
           </div>
         </div>
-        <!-- <a href="img/Wireframes/Wireframes-01.png"><img src="img/Wireframes/Wireframes-01.png"></a>
-        <a href="img/Wireframes/Wireframes-02.png"><img src="img/Wireframes/Wireframes-02.png"></a>
-        <a href="img/Wireframes/Wireframes-03.png"><img src="img/Wireframes/Wireframes-03.png"></a>
-        <a href="img/Wireframes/Wireframes-04.png"><img src="img/Wireframes/Wireframes-04.png"></a>
-        <a href="img/Wireframes/Wireframes-05.png"><img src="img/Wireframes/Wireframes-05.png"></a>
-        <a href="img/Wireframes/Wireframes-06.png"><img src="img/Wireframes/Wireframes-06.png"></a>
-        <a href="img/Wireframes/Wireframes-07.png"><img src="img/Wireframes/Wireframes-07.png"></a>
-        <a href="img/Wireframes/Wireframes-08.png"><img src="img/Wireframes/Wireframes-08.png"></a>
-        <a href="img/Wireframes/Wireframes-09.png"><img src="img/Wireframes/Wireframes-09.png"></a>
-        <a href="img/Wireframes/Wireframes-10.png"><img src="img/Wireframes/Wireframes-10.png"></a>
-        <a href="img/Wireframes/Wireframes-11.png"><img src="img/Wireframes/Wireframes-11.png"></a>
-        <a href="img/Wireframes/Wireframes-12.png"><img src="img/Wireframes/Wireframes-12.png"></a>
-        <a href="img/Wireframes/Wireframes-13.png"><img src="img/Wireframes/Wireframes-13.png"></a>
-        <a href="img/Wireframes/Wireframes-14.png"><img src="img/Wireframes/Wireframes-14.png"></a> -->
       </div>
       <h3> Features </h3>
       <div class="prototypes1">
-        <a href="img/Prototypes/Prototypes-06.png"><img src="img/Prototypes/Prototypes-06.png"></a>
+        <a data-toggle="modal" data-target="#Prototype6"><img src="img/Prototypes/Prototypes-06.png"></a>
+        <div id="Prototype6" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-06.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Social Media</div>
       </div>
       <div class="prototypes2">
-        <a href="img/Prototypes/Prototypes-04.png"><img src="img/Prototypes/Prototypes-04.png"></a>
+        <a data-toggle="modal" data-target="#Prototype4"><img src="img/Prototypes/Prototypes-04.png"></a>
+        <div id="Prototype4" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-04.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Messaging</div>
       </div>
       <div class="prototypes1">
-        <a href="img/Prototypes/Prototypes-01.png"><img src="img/Prototypes/Prototypes-01.png"></a>
+        <a data-toggle="modal" data-target="#Prototype1"><img src="img/Prototypes/Prototypes-01.png"></a>
+        <div id="Prototype1" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-01.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Group calls</div>
       </div>
       <div class="prototypes2">
-        <a href="img/Prototypes/planner.png"><img src="img/Prototypes/planner.png"></a>
+        <a data-toggle="modal" data-target="#planner"><img src="img/Prototypes/planner.png"></a>
+        <div id="planner" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/planner.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Planner</div>
       </div>
       <div class="prototypes1">
-        <a href="img/Prototypes/Prototypes-11.png"><img src="img/Prototypes/Prototypes-11.png"></a>
+        <a data-toggle="modal" data-target="#Prototype11"><img src="img/Prototypes/Prototypes-11.png"></a>
+        <div id="Prototype11" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-11.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Deep Focus</div>
       </div>
       <div class="prototypes2">
-        <a href="img/Prototypes/Prototypes-18.png"><img src="img/Prototypes/Prototypes-18.png"></a>
+        <a data-toggle="modal" data-target="#Prototype18"><img src="img/Prototypes/Prototypes-18.png"></a>
+        <div id="Prototype18" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-18.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Fitness</div>
       </div>
       <div class="prototypes1">
-        <a href="img/Prototypes/Prototypes-19.png"><img src="img/Prototypes/Prototypes-19.png"></a>
+        <a data-toggle="modal" data-target="#Prototype19"><img src="img/Prototypes/Prototypes-19.png"></a>
+        <div id="Prototype19" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-19.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Fitness start</div>
       </div>
       <div class="prototypes3">
-        <a href="img/Prototypes/Prototypes-12.png"><img src="img/Prototypes/Prototypes-12.png"></a>
-        <a href="img/Prototypes/Prototypes-13.png"><img src="img/Prototypes/Prototypes-13.png"></a>
+        <a data-toggle="modal" data-target="#Prototype12"><img src="img/Prototypes/Prototypes-12.png"></a>
+        <div id="Prototype12" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-12.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
+        <a data-toggle="modal" data-target="#Prototype13"><img src="img/Prototypes/Prototypes-13.png"></a>
+        <div id="Prototype13" class="modal fade" tabindex="-1" role="dialog">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body">
+                <img src="img/Prototypes/Prototypes-13.png" class="img-responsive">
+              </div>
+            </div>
+          </div>
+        </div>
         <div>Gray</div>
       </div>
       <h3>Final Design</h3>
