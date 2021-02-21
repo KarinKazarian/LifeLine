@@ -1,11 +1,6 @@
   <div class="tab-content">
-    <div id="home" class="tab-pane fade in active">
-      <h3>HOME</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua.</p>
-    </div>
-    <div id="menu1" class="tab-pane fade">
-      <h3>Understanding the problem</h3>
+    <div id="research" class="tab-pane fade">
+      <h2>Understanding the problem</h2>
       <p>
         Over the past decade, our phones and smart devices have quickly become an extension of ourselves. We use it to
         capture memories by taking photos, to communicate with our family who may live thousands of miles away, to order
@@ -34,8 +29,6 @@
         encourages
         and reinforces healthy habits that allows us to accomplish most of our daily tasks.
       </p>
-    </div>
-    <div id="menu2" class="tab-pane fade">
       <h3>Research</h3>
       <h4>Impact of screen time on health</h4>
       <p>Several papers show that spending a lot of time in front of a computer combined with low physical activity is
@@ -84,8 +77,8 @@
         app recommends anything, it does so discreetly, it seizes control from the user rarely.
       </p>
     </div>
-    <div id="menu3" class="tab-pane fade">
-      <h3>Data Analysis</h3>
+    <div id="analysis" class="tab-pane fade">
+      <h3>Analysis</h3>
       <h2>Surveys</h2>
       <p>To better understand our potential user base, surveys were sent out to see what kinds of people would be
         willing to use
@@ -179,8 +172,8 @@
         </a>
       </div>
     </div>
-    <div id="menu4" class="tab-pane fade">
-      <h3>User Personas</h3>
+    <div id="finalDesign" class="tab-pane fade">
+      <h3>Final Design</h3>
       <a data-toggle="modal" data-target="#myModal"><img src="img/student.png"></a>
       <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
         <div class="modal-dialog">
@@ -213,6 +206,17 @@
     <div class="font3">Montserrat</div>
   </div>
   <div> We used Montserrat font by Julieta Ulanovsky, it's a clean and elegant font that is easy to understand</div>
+</div>
+
+<div class="user-journeys">
+<h3 id= "personas"> User Journeys</h3>
+<div>Based on the data we gathered through the surveys we set out to create two personas which represent our target demographic. 
+The first persona represents the user whose lifestyle is somewhat healthy but is looking to take it to the next level. This user would like to make offline
+ activities more appealing through the app, mainly by organising activities with people she meets on the app. </div>
+ <a href="img/student_journey.png"><img src="img/student_journey.png"></a>
+<div>Knowing what the potential users of our app want and expect, we can create user journeys which demonstrate how their average experience looks
+like with similar apps available on the market. </div>
+ <a href="img/nerd_journey.png"><img src="img/nerd_journey.png"></a>
 </div>
 
 ### Color Palette
@@ -270,8 +274,8 @@ look like.
 </div>
 
 <div class="prototypes1">
-  <a href="img/Prototypes/Prototypes-04.png"><img src="img/Prototypes/Prototypes-04.png"></a>
-  <div>Messaging</div>
+  <a href="img/Prototypes/Prototypes-01.png"><img src="img/Prototypes/Prototypes-01.png"></a>
+  <div>Group calls</div>
 </div>
 
 <div class="prototypes2">
