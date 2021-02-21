@@ -9,7 +9,11 @@ body {
   top: 0;
   left: 0;
   z-index: 1000;
-  
+  background: rgba( 255, 255, 255, 0.25 ) !important;
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ) !important;
+backdrop-filter: blur( 4px ) !important;
+-webkit-backdrop-filter: blur( 4px ) !important;
+border: 1px solid rgba( 255, 255, 255, 0.18 ) !important;
   header {
     height: 80px;
     padding: 0px !important;
@@ -32,6 +36,10 @@ body {
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
+  background: rgba( 255, 255, 255, 0.25 ) !important;
+  backdrop-filter: blur( 4px ) !important;
+  -webkit-backdrop-filter: blur( 4px ) !important;
+  border: 1px solid rgba( 255, 255, 255, 0.18 ) !important;
 }
 .tab a {
   color: black;
