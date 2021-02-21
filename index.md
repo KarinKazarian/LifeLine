@@ -80,7 +80,9 @@
     </div>
     <div id="analysis" class="tab-pane">
       <h3>Survey</h3>
-      <p>To better understand our potential user base, surveys were sent out to see what kinds of people would be
+      <p>To better understand our potential user base, <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLScKe6bgUikIwR2UZZE1eU0FnCzc8RLxxlflVDS5PQQwP7CZRQ/viewform?usp=sf_link">surveys</a>
+        were sent out to see what kinds of people would be
         willing to use
         a super app that promotes a healthy lifestyle and what they would expect from such an app and what they would
         want to
