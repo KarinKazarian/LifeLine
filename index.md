@@ -240,7 +240,7 @@
           user's sleep cycle as blue light has shown to do.
           Warm color are more related to emotion and passion, which conveys the broad "feel" of the app, which is about
           qualitative improvement more than quantitative improvement.
-          The color palette also enhances the dichotomy between the app's two states as shown belo</div>
+          The color palette also enhances the dichotomy between the app's two states as shown below</div>
       </div>
       <h3>Sketches</h3>
       <p>To start the design of our Super App we created some basic sketches to get a general idea of what we wanted our
@@ -252,6 +252,7 @@
         <a href="img/Sketch3.png"><img src="img/Sketch3.png"></a>
       </div>
       <h3>Wireframes</h3>
+      <p>Based on our initial sketches, we built wireframe diagrams that included more visual UI details that helped us have a better understanding of what we wanted to build </p>
       <div class="wireframes">
         <a data-toggle="modal" data-target="#Wireframe1"><img src="img/Wireframes/Wireframes-01.png"></a>
         <div id="Wireframe1" class="modal fade" tabindex="-1" role="dialog">
